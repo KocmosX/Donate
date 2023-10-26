@@ -6,13 +6,21 @@
 Если у вас возникло желание поддержать мой проект и помочь в его развитии, вы можете воспользоваться следующими кошельками: 💰💼
 
 Bitcoin: 1EeoV9VkKGcYWJX8yjcShTEJFN38t5moUR
+
 Ethereum: 0x9b0f5c07936994074de7d4b5b4c64e8aefa2e5a0
+
 Litecoin: LSj3eFnb4d5VWRZDBJcPtKbyCdycxqHdAK
+
 Dogecoin BEP20: 0x9b0f5c07936994074de7d4b5b4c64e8aefa2e5a0
+
 Binance Coin: 0x9b0f5c07936994074de7d4b5b4c64e8aefa2e5a0
+
 XRP: r3sJHNJY2h7JQ9k2yGBy5xzTUciMRcdfkD
+
 Solona: CnihrVyhsyMZ6cWmf2DnXHocdxbC2cH9Fw2aaHQbRSCp
+
 TRON: TFpqCpG9aUn3wqRD2Ei6tVErWwxvedzedE
+
 SHIBA INU: 0x9b0f5c07936994074de7d4b5b4c64e8aefa2e5a0
 
 Большое спасибо за вашу поддержку! 💙 Вместе мы создадим нечто удивительное!
